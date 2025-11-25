@@ -1,10 +1,11 @@
-🔴**Caminhada de Aprendizado em Java & QA - Certificados**.
+🔴 **Caminhada de Aprendizado em Java & QA - Certificados**.
 
 **Este repositório reúne todos os meus certificados conquistados ao longo da minha jornada de estudos em Java, Qualidade de Software (QA), Automação de Testes e desenvolvimento back-end. Aqui você encontra a minha evolução desde os primeiros passos na programação, passando por formações completas de duas instituições de destaque: Riachuelo Tech e Bradesco/DIO.**
 
+
 ⭐ **Minha Jornada de Aprendizado**
 
-Comecei meus estudos em Java pela Udemy, onde obtive uma base sólida em:
+**Comecei meus estudos em Java pela Udemy, onde obtive uma base sólida em:**
 
 Fundamentos da linguagem Java.
 
@@ -18,10 +19,11 @@ JavaFX e primeiros contatos com frameworks.
 
 Essa base foi fundamental para seguir para os Bootcamps.
 
+
 ⭐ **Bootcamp Riachuelo – Java Developer**
 
 Carga horária total: 27h.
-Meu primeiro Bootcamp estruturado. Aqui evoluí minha lógica, fundamentos de Java e os primeiros passos em desenvolvimento orientado a objetos.
+**Meu primeiro Bootcamp estruturado. Aqui evoluí minha lógica, fundamentos de Java e os primeiros passos em desenvolvimento orientado a objetos.**
 
 📌 **Principais Certificados (Destaques)**
 
@@ -45,7 +47,8 @@ Outros Certificados Riachuelo.
 
 Versionamento com Git e GitHub.
 
-Criando uma API usando Programação Orientada a Objetos
+Criando uma API usando Programação Orientada a Objetos.
+
 
 ⭐ **Bootcamp Bradesco / DIO – PCD Tech Java & QA Developer**
 
@@ -111,6 +114,7 @@ Contribuição em Projetos Open Source (QA).
 Introdução ao Desenvolvimento Moderno de Software.
 
 Princípios de Aplicações Java Cloud Native.
+
 
 ⭐ **Conclusão Geral**
 
